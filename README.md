@@ -14,7 +14,7 @@ In the first place, a development will be carried out on an application to detec
 Finally, it is finalised by presenting the results and conclusions obtained.
 
 Follow it:
-- Website (ES):https://eburnout.jesusgarcia.pro/index.html
+- Website (ES): https://eburnout.jesusgarcia.pro/index.html
 - Website (EN): https://eburnout.jesusgarcia.pro/en
 
 Key words: Machine Learning, Deep Learning, text analysis, patterns search, Big Data.
